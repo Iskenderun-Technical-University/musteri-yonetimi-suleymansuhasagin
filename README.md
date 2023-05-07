@@ -1,1 +1,3 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/uelKf0-p)
+Bu projeyi yaparkenki motivasyonum, dışarı çıkarken sık sık hava durumunu kontrol etmem ve bunun için doğru verileri alabileceğim, kolay kullanılabilir ve daha rafine bir arayüze sahip bir programın işe yarar olacağını düşünmemdir.
+Bu projenin amacı, istenen şehrin rüzgar hızı, nem oranı gibi niteliklerinin de dahil olduğu doğru hava durumu verilerine ulaşan bir hava durumu uygulaması oluşturmaktır.
