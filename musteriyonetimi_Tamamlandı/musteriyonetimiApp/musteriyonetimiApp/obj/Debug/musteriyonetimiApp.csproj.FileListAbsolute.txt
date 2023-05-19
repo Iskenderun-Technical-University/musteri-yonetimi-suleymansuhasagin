@@ -1,0 +1,16 @@
+C:\Users\Süleyman\source\repos\musteriyonetimiApp\musteriyonetimiApp\bin\Debug\musteriyonetimiApp.exe.config
+C:\Users\Süleyman\source\repos\musteriyonetimiApp\musteriyonetimiApp\bin\Debug\musteriyonetimiApp.exe
+C:\Users\Süleyman\source\repos\musteriyonetimiApp\musteriyonetimiApp\bin\Debug\musteriyonetimiApp.pdb
+C:\Users\Süleyman\source\repos\musteriyonetimiApp\musteriyonetimiApp\obj\Debug\musteriyonetimiApp.csproj.AssemblyReference.cache
+C:\Users\Süleyman\source\repos\musteriyonetimiApp\musteriyonetimiApp\obj\Debug\musteriyonetimiApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Süleyman\source\repos\musteriyonetimiApp\musteriyonetimiApp\obj\Debug\musteriyonetimiApp.csproj.CoreCompileInputs.cache
+C:\Users\Süleyman\source\repos\musteriyonetimiApp\musteriyonetimiApp\obj\Debug\musteriyonetimiApp.exe
+C:\Users\Süleyman\source\repos\musteriyonetimiApp\musteriyonetimiApp\obj\Debug\musteriyonetimiApp.pdb
+C:\Users\Süleyman\Desktop\musteriyonetimi\musteriyonetimiApp\musteriyonetimiApp\bin\Debug\musteriyonetimiApp.exe.config
+C:\Users\Süleyman\Desktop\musteriyonetimi\musteriyonetimiApp\musteriyonetimiApp\bin\Debug\musteriyonetimiApp.exe
+C:\Users\Süleyman\Desktop\musteriyonetimi\musteriyonetimiApp\musteriyonetimiApp\bin\Debug\musteriyonetimiApp.pdb
+C:\Users\Süleyman\Desktop\musteriyonetimi\musteriyonetimiApp\musteriyonetimiApp\obj\Debug\musteriyonetimiApp.csproj.AssemblyReference.cache
+C:\Users\Süleyman\Desktop\musteriyonetimi\musteriyonetimiApp\musteriyonetimiApp\obj\Debug\musteriyonetimiApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Süleyman\Desktop\musteriyonetimi\musteriyonetimiApp\musteriyonetimiApp\obj\Debug\musteriyonetimiApp.csproj.CoreCompileInputs.cache
+C:\Users\Süleyman\Desktop\musteriyonetimi\musteriyonetimiApp\musteriyonetimiApp\obj\Debug\musteriyonetimiApp.exe
+C:\Users\Süleyman\Desktop\musteriyonetimi\musteriyonetimiApp\musteriyonetimiApp\obj\Debug\musteriyonetimiApp.pdb
